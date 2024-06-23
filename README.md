@@ -1,4 +1,4 @@
-# Tic Tac Application
+# Prasunet_WD_02
 
 ## Description
 This is a simple Tic Tac Toe game implemented in html,css,ja.
